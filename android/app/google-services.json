@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570269524262",
+    "project_id": "pubg-tournament-2d2fc",
+    "storage_bucket": "pubg-tournament-2d2fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570269524262:android:f30f26d6b9809ae16761e7",
+        "android_client_info": {
+          "package_name": "com.pubg.tournament"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGele2ekz8rCPwrovEmSNoj8WJaHaPTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
